@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "28fb853635cb19ad2c67",
-    "url": "/netflix-clone/static/css/main.c2063fdd.chunk.css"
+    "revision": "d422c81433b01923fa9c",
+    "url": "/netflix-clone/static/css/main.d4ec57d8.chunk.css"
   },
   {
-    "revision": "28fb853635cb19ad2c67",
-    "url": "/netflix-clone/static/js/main.28fb8536.chunk.js"
+    "revision": "d422c81433b01923fa9c",
+    "url": "/netflix-clone/static/js/main.d422c814.chunk.js"
   },
   {
     "revision": "1c816c7a4cc345cbf75c",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/netflix-clone/static/js/runtime~main.0b892cc9.js"
   },
   {
-    "revision": "02fa0a1875e1c9067f5c59cbfa7294e8",
+    "revision": "ea0ed20d8365c8ff44dd423ce437b6ea",
     "url": "/netflix-clone/index.html"
   }
 ];
