@@ -46,6 +46,26 @@
     max-width: 38rem;
     min-width: 20rem;
 }
+.banner__rating {
+    padding-right:10px ;
+    line-height: 1.7;
+    margin-top: 1rem;
+    font-size: 10px;
+    /* height: 100px; */
+    /* overflow-y: scroll; */
+    max-width: 38rem;
+    min-width: 20rem;
+}
+.banner__language {
+    padding-right:10px ;
+    line-height: 1.7;
+    margin-top: 1rem;
+    font-size: 10px;
+    /* height: 100px; */
+    /* overflow-y: scroll; */
+    max-width: 38rem;
+    min-width: 20rem;
+}
 
 .banner__description::-webkit-scrollbar{
     display: none;

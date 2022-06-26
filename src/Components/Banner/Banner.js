@@ -28,15 +28,15 @@ function Banner() {
        className='banner'>
           
           <div className='content'>
-              <h1 className='title'>{movie ? movie.title : ""}</h1>
+              <h1 className='banner__title'>{movie ? movie.title : ""}</h1>
               <div className='banner_buttons'>
                   <button className='button' >Play</button>
                   <button className='button'>My Playlist</button>
               </div>
               {/* <h5 >Date: {movie ? movie.release_date :""}</h5> */}
-              <h5>Language: {movie ? movie.original_language :""}</h5>
-              {/* <h5>Rating: {movie ? movie.vote_average :""}</h5> */}
-              {/* <h1 className='description'>{movie ? movie.overview : ""}</h1> */}
+              <h5 className='banner__language'>Language: {movie ? movie.original_language :""}</h5>
+              <h5 className='banner__rating'>Rating: {movie ? movie.vote_average :""}</h5>
+              <h1 className='banner__description'>{movie ? movie.overview : ""}</h1>
           </div>
           <div className="fade_bottom"></div>
       </div>
