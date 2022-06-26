@@ -11,7 +11,7 @@
 }
 
 .banner__title {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 800;
     padding-bottom: 0.3rem;
 }
@@ -40,7 +40,7 @@
     padding-right:10px ;
     line-height: 1.7;
     margin-top: 1rem;
-    font-size: 18vw;
+    font-size: 14px;
     height: 100px;
     overflow-y: scroll;
     max-width: 38rem;
@@ -50,7 +50,7 @@
     padding-right:10px ;
     line-height: 1.7;
     margin-top: 1rem;
-    font-size: 10vw;
+    font-size: 10px;
     /* height: 100px; */
     /* overflow-y: scroll; */
     max-width: 38rem;
@@ -60,7 +60,7 @@
     padding-right:10px ;
     line-height: 1.7;
     margin-top: 1rem;
-    font-size: 10vw;
+    font-size: 10px;
     /* height: 100px; */
     /* overflow-y: scroll; */
     max-width: 38rem;
