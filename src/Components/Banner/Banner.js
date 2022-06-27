@@ -30,7 +30,7 @@ function Banner() {
           <div className='content'>
               <h1 className='banner__title'>{movie ? movie.original_title : ""}</h1>
               <div className='banner_buttons'>
-                  <button className='button bg-danger'>Play</button>
+                  <button className='button'>Play</button>
                   <button className='button'>My Playlist</button>
               </div>
               {/* <h5 >Date: {movie ? movie.release_date :""}</h5> */}

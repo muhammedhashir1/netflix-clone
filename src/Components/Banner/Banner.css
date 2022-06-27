@@ -32,8 +32,8 @@
 }
 
 .button:hover {
-    color: black;
-    background-color: #e6e6e6;
+    color: rgb(255, 255, 255);
+    background-color: #ff0000;
 }
 
 .banner__description {
