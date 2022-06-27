@@ -37,7 +37,7 @@ function Footer() {
                 <button>Service Code</button>
             </div>
             <div className="copyright">
-                <p>Copyright@Fuad2021</p>
+                <p>Copyright@Hashir2022</p>
             </div>
         </div>
     )
